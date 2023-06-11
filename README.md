@@ -7,7 +7,7 @@ Link to Demonstration Video: https://youtu.be/VrU-t2BdlO4
 
 Due to the Blueprint plugin, the UE5 files have failed to pack several times, so only the Content and Plugins of the UE5 files are available here. If you need to experience the game, you can download these two files above, put them into your local project's folder, replace the Content file in it, and put the Plugins file in the project's root directory, then go into that project in UE5, open Explorer, go to Content/Finalwork/Map/Map_1, and double-click the map to enter the game.
 
-![Uploading Screenshot 2023-06-11 at 15.13.22.png…]()
+<img width="827" alt="Screenshot 2023-06-11 at 15 13 22" src="https://github.com/666888He/Final-Project---Whale-Balance-Ball/assets/118990959/55ab3122-8a51-4904-a7ba-8a4bff0ed78e">
 
 PROCESS DETAIL - HOW TO MAKE A GAME LIKE THIS :)
 
