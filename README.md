@@ -16,6 +16,8 @@ A more detailed process has been provided in the video above, which can be used 
 
 The UE5 UDP signal reception plugin used in the following article can be downloaded by clicking here: [https://getnamo/UDP-Unreal](https://github.com/getnamo/UDP-Unreal)
 
+<img width="823" alt="Screenshot 2023-06-11 at 15 24 31" src="https://github.com/666888He/Final-Project---Whale-Balance-Ball/assets/118990959/93236057-4e8c-4941-92e1-3bfbf6a007d5">
+
 
 
 We created a game called Whale Balancing Ball, using arduino in combination with Unreal Engine, using the capacitive touch pins that come with the ESP32 and using the UDP protocol to communicate with UE5 to achieve a game of balancing ball by touching the fruit to control the whale in the game.
