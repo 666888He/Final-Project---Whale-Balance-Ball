@@ -9,7 +9,6 @@ Due to the Blueprint plugin, the UE5 files have failed to pack several times, so
 
 ![Uploading Screenshot 2023-06-11 at 15.13.22.png…]()
 
-
 PROCESS DETAIL - HOW TO MAKE A GAME LIKE THIS :)
 
 A more detailed process has been provided in the video above, which can be used in conjunction if required.
