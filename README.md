@@ -13,7 +13,7 @@ PROCESS DETAIL - HOW TO MAKE A GAME LIKE THIS :)
 
 A more detailed process has been provided in the video above, which can be used in conjunction if required.
 
-The UE5 UDP signal reception plugin used in the following article can be downloaded by clicking here: getnamo/UDP-Unreal
+The UE5 UDP signal reception plugin used in the following article can be downloaded by clicking here: https://getnamo/UDP-Unreal
 
 
 
