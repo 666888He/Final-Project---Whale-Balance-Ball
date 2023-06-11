@@ -24,6 +24,7 @@ We created a game called Whale Balancing Ball, using arduino in combination with
 
 In the live demo above, you can see that by tapping the fruit we can control the movement of the whale in the game.As the ESP32 comes with its own capacitive touch pins, you can freely change the fruit used for the control, which can be an apple, an orange, a mango or even a small tomato.
 
+![Uploading Screenshot 2023-06-11 at 15.25.55.png…]()
 
 
 First you need to buy the ESP32 board, you can see that the version I use is ESP32-WROOM-32, this is because the ESP32 comes with capacitive touch pins, and the ESP32's WIFI function can achieve UDP communication with the UE5, so you can receive the board's signal through the computer port inside the UE5. Of course if you are a UE4, you can connect the UE directly to the Arduino via a plug-in, such as the UE4Duino.
